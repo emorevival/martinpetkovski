@@ -3,7 +3,7 @@
 ║  >Martin Petkovski_                                                                  ║
 ╟──────────────────────────────────────────────────────────────────────────────────────╢
 ║  ● Video Games Programmer & Enthusiast                                               ║
-║  ● Sole developer of [NST](https://www.najjak.com/nst/)                              ║
+║  ● Sole developer of NST (https://www.najjak.com/nst/)                               ║
 ║  ● Open to develop various flavors of cool shit                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────╢
 ║                                                If you want to win, you mustn't lose  ║
