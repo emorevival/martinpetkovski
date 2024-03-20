@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>SIOTO JAZZ</title>
@@ -289,9 +289,7 @@
         }
 
         #song #lyrics {
-            position: relative;
             left: -50px;
-            margin-left: 100px;
             box-sizing: border-box;
             color: #111;
             font-size: 2.8vw;
@@ -4115,11 +4113,13 @@
 
             if (menuState) {
                 document.getElementById('playerContainer').classList.remove('hideMenu');
+                document.getElementById('playerContainer').style.position = 'relative';
                 document.getElementById('songContent').classList.add('hideSongContent');
                 menuBtn.classList.remove('activeMenuButton');
             }
             else {
                 document.getElementById('playerContainer').classList.add('hideMenu');
+                document.getElementById('playerContainer').style.position = 'absolute';
                 document.getElementById('songContent').classList.remove('hideSongContent');
                 menuBtn.classList.add('activeMenuButton');
             }
